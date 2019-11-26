@@ -18,7 +18,7 @@
        <repository>
          <id>internal.repo</id>
          <name>Internal repo</name>
-         <url>file:Host to Company Repository</url>
+         <url>file////var/lib/jenkins/workspace/</url>
        </repository>
    </distributionManagement>
 
